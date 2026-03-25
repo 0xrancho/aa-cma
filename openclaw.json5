@@ -1,0 +1,88 @@
+{
+  // ChesedClaw Gateway Config
+  // AA-CMA: Thomas + Seneca + Aris + Arc
+  // Anthropic-only until Mac Minis arrive
+
+  gateway: {
+    mode: "local",
+  },
+
+  channels: {
+    telegram: {
+      enabled: true,
+      // Bot token from env: TELEGRAM_BOT_TOKEN
+      dmPolicy: "allowlist",
+      allowFrom: [1657029840],
+      groups: {
+        "*": { requireMention: true },
+      },
+    },
+  },
+
+  // Provider auth: ANTHROPIC_API_KEY from env
+
+  agents: {
+    list: [
+      {
+        id: "thomas",
+        default: true,
+        identity: { name: "Thomas Aquinas" },
+        model: "anthropic/claude-sonnet-4-6",
+        tools: {
+          allow: [
+            "read", "write", "edit", "glob", "grep", "exec",
+            "message", "cron",
+            "sessions_list", "sessions_history",
+            "sessions_spawn", "sessions_send", "session_status",
+            "browser",
+          ],
+        },
+      },
+      {
+        id: "seneca",
+        identity: { name: "Seneca" },
+        model: "anthropic/claude-sonnet-4-6",
+        tools: {
+          allow: [
+            "read", "write", "edit", "glob", "grep", "exec",
+            "browser", "sessions_spawn",
+          ],
+          deny: ["message", "cron"],
+        },
+      },
+      {
+        id: "aris",
+        identity: { name: "Aristotle" },
+        model: "anthropic/claude-sonnet-4-6",
+        tools: {
+          allow: [
+            "read", "write", "glob", "grep", "exec",
+            "browser", "sessions_spawn",
+          ],
+          deny: ["message", "cron", "edit"],
+        },
+      },
+      {
+        id: "arc",
+        identity: { name: "Archimedes" },
+        model: "anthropic/claude-sonnet-4-6",
+        tools: {
+          allow: [
+            "read", "write", "edit", "glob", "grep", "exec",
+          ],
+          deny: ["message", "browser", "cron", "sessions_spawn"],
+        },
+      },
+    ],
+    bindings: [
+      { agentId: "thomas", match: { channel: "telegram" } },
+    ],
+  },
+
+  tools: {
+    agentToAgent: {
+      enabled: true,
+      allow: ["thomas", "seneca", "aris", "arc"],
+    },
+  },
+}
