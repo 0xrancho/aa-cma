@@ -28,6 +28,7 @@
         default: true,
         identity: { name: "Thomas Aquinas" },
         model: "anthropic/claude-sonnet-4-6",
+        workspace: "~/aa-cma/workspace-thomas",
         tools: {
           allow: [
             "read", "write", "edit", "glob", "grep", "exec",
@@ -42,6 +43,7 @@
         id: "seneca",
         identity: { name: "Seneca" },
         model: "anthropic/claude-sonnet-4-6",
+        workspace: "~/aa-cma/workspace-seneca",
         tools: {
           allow: [
             "read", "write", "edit", "glob", "grep", "exec",
@@ -54,6 +56,7 @@
         id: "aris",
         identity: { name: "Aristotle" },
         model: "anthropic/claude-sonnet-4-6",
+        workspace: "~/aa-cma/workspace-aris",
         tools: {
           allow: [
             "read", "write", "glob", "grep", "exec",
@@ -66,6 +69,7 @@
         id: "arc",
         identity: { name: "Archimedes" },
         model: "anthropic/claude-sonnet-4-6",
+        workspace: "~/aa-cma/workspace-arc",
         tools: {
           allow: [
             "read", "write", "edit", "glob", "grep", "exec",
