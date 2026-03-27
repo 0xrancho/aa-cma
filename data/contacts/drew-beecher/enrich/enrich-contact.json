@@ -1,0 +1,65 @@
+{
+  "enriched_at": "2026-03-08",
+  "enriched_by": "thomas",
+  "role_summary": "VP Marketing at Alloy Partners (formerly High Alpha Innovation). 9+ years building the High Alpha organization. Fmr. Founder/CEO of Holder (web3 CRM, 2022-2024). ExactTarget → Salesforce alum. Based in Indianapolis.",
+  "icp_fit": "high",
+  "pain_themes": [
+    "Running Claude Code in isolation — wants multi-agent NanoClaw-style setup",
+    "Compliance/trust barrier: work accounts can't access confidential email/Google data via LLMs",
+    "Data governance in agentic systems — needs control layer, not just capability",
+    "Wants to see how to move from tool-user to infrastructure-builder"
+  ],
+  "motivations": [
+    "Live demo of NanoClaw multi-agent setup",
+    "Understand container isolation model as answer to his trust/compliance concern",
+    "Arthur & Archie intro — understand what AA does and if there's a fit",
+    "Peer conversation: fellow Claude Code daily user"
+  ],
+  "communication_style": "Direct, curious, founder-mindset. Self-described startup junkie. Faith-oriented (lists as 'Believer'). Creative background (musician). Frames everything through storytelling and brand.",
+  "relationship_notes": "Introduced via Joel context. Reached out via LinkedIn/DM. Meeting tomorrow (Monday March 10). Shares Claude Code usage. Compliance concern re: Google data is the primary objection to NanoClaw adoption. Alloy has corporate partners at F500 level (Eli Lilly, Elanco, Huntington) — warm vector into enterprise clients. Holder shutdown 2024 — well-received departure, still respected in ecosystem.",
+  "firm_details": {
+    "name": "Alloy Partners",
+    "formerly": "High Alpha Innovation",
+    "model": "Venture studio — co-creates startups with F500 corporations",
+    "fund": "$125M Fund IV (June 2024)",
+    "portfolio_count": "30+ companies",
+    "corporate_partners": ["Eli Lilly", "Elanco", "Capital One", "Warner Bros. Discovery", "Huntington Bank", "UNC"],
+    "focus": "B2B SaaS, enterprise software, seed to Series A",
+    "location": "Indianapolis (Bottleworks District)"
+  },
+  "background": {
+    "education": "Anderson University, Marketing + Music Business (2013)",
+    "prior_roles": ["ExactTarget (content/product marketing)", "Salesforce (post-acquisition)", "High Alpha (2015-2024)", "Holder - Founder/CEO (2022-2024)"],
+    "founder_experience": "Built and shut down Holder (web3 CRM) — timing issue, not execution. Returned capital to investors. No regrets framing."
+  },
+  "digital_presence": {
+    "linkedin": "https://www.linkedin.com/in/drewbeechler/",
+    "twitter": "@drewbeechler",
+    "calendly": "https://calendly.com/drew-alloy",
+    "farcaster": "@drewbeechler",
+    "website": "drewbeechler.com"
+  },
+  "conversation_context": {
+    "from_joel": "Asked if he has a Claw yet. He wants it but: no good machine, doesn't fully trust it yet, work accounts not allowed.",
+    "drew_quote": "I'm running Claude Code basically all day now.",
+    "joel_angle": "Are you running Claude Code at root or in isolation? If the former, it's less secure than what many of the Claw designs do. I build mine with Claude Code forking NanoClaw.",
+    "drew_response": "Yeah mostly in isolation not in root. Biggest thing is more confidential email or calendar or Google data. Let's definitely chat soon! Would love a demo.",
+    "key_insight": "He's already sold on Claude Code. The question is trust + infrastructure architecture. NanoClaw's container isolation is the direct answer to his concern."
+  },
+  "meeting_angles": [
+    "Show container isolation model — his 'trust' concern is exactly what NanoClaw solves architecturally",
+    "Google MCP + isolated container = his Google data stays scoped, doesn't leak to model",
+    "He's a daily Claude Code user — speak peer-to-peer, not vendor",
+    "Alloy's F500 corporate partners are warm enterprise intro vectors for AA",
+    "Holder story = risk tolerance + founder credibility + web3 timing lesson (he understands 'too early')",
+    "Music background — shared creative/analytical dual lens with Joel",
+    "He's already curious: 'Would love a demo' — this is a warm yes to show, not pitch"
+  ],
+  "sources": [
+    {"type": "web", "url": "https://alloypartners.com"},
+    {"type": "web", "url": "https://www.linkedin.com/in/drewbeechler/"},
+    {"type": "web", "url": "https://drewbeechler.com"},
+    {"type": "conversation", "date": "2026-03-08", "channel": "LinkedIn DM"},
+    {"type": "local", "path": "/workspace/project/groups/main/output/alloy-nanoclaw-demo/"}
+  ]
+}

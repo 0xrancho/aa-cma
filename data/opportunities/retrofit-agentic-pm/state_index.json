@@ -1,0 +1,39 @@
+{
+  "object_type": "opportunity",
+  "slug": "retrofit-agentic-pm",
+  "display_name": "Retrofit Design — Agentic PM",
+  "airtable_id": "recmV2OW0jLsI4Ebr",
+  "account_slug": "retrofit-design",
+  "contact_slugs": ["jeremy-portillo"],
+  "crm_stage": "Presales",
+  "tier": 2,
+  "status": "active",
+  "last_activity": "2026-03-03",
+  "load_on_inbound": true,
+  "files_to_load": [
+    "/workspace/project/opportunities/retrofit-agentic-pm/enrich/enrich-opportunity.json"
+  ],
+  "linked_engagements": [],
+  "open_threads": [
+    "PM Agent build scoping"
+  ],
+  "deliverables": [
+    {
+      "type": "proposal",
+      "name": "Retrofit Managed Agency Proposal",
+      "url": "https://aa-retrofit-managed-agency.netlify.app",
+      "file": "groups/main/output/retrofit-managed-agency-proposal/index.html",
+      "created": "2026-03-11"
+    }
+  ],
+  "runtime_state": {
+    "group_folder": "retrofit-design",
+    "elicitation_checklist": "/workspace/project/groups/retrofit-design/elicitation_checklist.json",
+    "group_claude_md": "/workspace/project/groups/retrofit-design/CLAUDE.md"
+  },
+  "notes": "Active client ($3,500 + $1,000/mo). PM Agent build opportunity emerging.",
+  "last_updated": "2026-03-12",
+  "activity_log": [
+    {"date": "2026-03-12", "note": "Proposal sent. Client moving forward."}
+  ]
+}

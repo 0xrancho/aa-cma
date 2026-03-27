@@ -1,0 +1,26 @@
+{
+  "object_type": "contact",
+  "slug": "drew-beecher",
+  "display_name": "Drew Beechler",
+  "airtable_id": "recxj1SiUPlnKBejG",
+  "account_slug": "alloy-ventures",
+  "email": null,
+  "tier": 2,
+  "crm_stage": "Qualification",
+  "status": "active",
+  "last_contact": "2026-03-08",
+  "last_contact_channel": "linkedin-dm",
+  "load_on_inbound": true,
+  "files_to_load": [
+    "/workspace/project/contacts/drew-beecher/enrich/enrich-contact.json"
+  ],
+  "linked_opportunities": [
+    "alloy-nanoclaw-demo"
+  ],
+  "open_threads": [
+    "Monday March 10 meeting — NanoClaw demo + AA intro",
+    "Trust/compliance concern re: Google data in agentic systems"
+  ],
+  "notes": "VP Marketing at Alloy Partners (formerly High Alpha Innovation). Daily Claude Code user. Fmr. Founder/CEO Holder (web3 CRM, shut down 2024). Confirmed meeting for demo tomorrow. His 'trust' concern is directly answered by NanoClaw container isolation model.",
+  "deliverables": []
+}

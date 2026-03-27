@@ -1,0 +1,23 @@
+{
+  "object_type": "opportunity",
+  "slug": "onow-agentic-forms",
+  "display_name": "ONOW ASCENT — Agentic Forms Build",
+  "airtable_id": "recEDar5TOK2co4Oa",
+  "account_slug": "onow-ascent",
+  "contact_slugs": ["matt-wallace"],
+  "crm_stage": "Presales",
+  "tier": 2,
+  "status": "active",
+  "last_activity": "2026-02-27",
+  "load_on_inbound": true,
+  "files_to_load": [
+    "/workspace/project/opportunities/onow-agentic-forms/enrich/enrich-opportunity.json"
+  ],
+  "linked_engagements": [],
+  "open_threads": [
+    "Scoping meeting next week",
+    "Define Agentic Forms build requirements"
+  ],
+  "deliverables": [],
+  "notes": "$7-15K. Video pitch + agentic intake for investor qualification. Matt said 'Let's do it.'"
+}

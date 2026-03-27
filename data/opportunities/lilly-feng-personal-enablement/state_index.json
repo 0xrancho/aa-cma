@@ -1,0 +1,36 @@
+{
+  "object_type": "opportunity",
+  "slug": "lilly-feng-personal-enablement",
+  "display_name": "Eli Lilly — Feng Personal Enablement",
+  "airtable_id": "recGEioJ8ZGrFksbG",
+  "account_slug": "eli-lilly",
+  "contact_slugs": ["stephen-feng"],
+  "crm_stage": "Proposal",
+  "tier": 3,
+  "status": "active",
+  "last_activity": "2026-03-03",
+  "load_on_inbound": true,
+  "files_to_load": [
+    "/workspace/project/opportunities/lilly-feng-personal-enablement/enrich/enrich-opportunity.json",
+    "/workspace/project/accounts/eli-lilly/enrich/enrich-account.json"
+  ],
+  "linked_engagements": [],
+  "open_threads": [
+    "Awaiting Stephen reply to Thomas intro email (3/3/2026)",
+    "Adversarial testing results",
+    "Mock company name for environment generation",
+    "Hourly engagement proposal"
+  ],
+  "deliverables": [
+    {"type": "meeting-prep", "url": "https://feng-prep-022826.netlify.app", "password": "justlove", "description": "Meeting prep brief"},
+    {"type": "wwh", "url": "https://aa-feng-wwh-022826.netlify.app", "password": "justlove", "description": "What We Heard doc (Tab 2 = IT approval playbook)"},
+    {"type": "onboarding", "url": "https://aa-feng-onboarding.netlify.app", "password": "justlove", "description": "Onboarding schedule"},
+    {"type": "schema", "description": "AGENT.md schema — sent as email attachment, NO LOCAL COPY (Luis problem item)"}
+  ],
+  "runtime_state": {
+    "group_folder": "eli-lilly",
+    "elicitation_checklist": "/workspace/project/groups/eli-lilly/elicitation_checklist.json",
+    "group_claude_md": "/workspace/project/groups/eli-lilly/CLAUDE.md"
+  },
+  "notes": "$5,500 initial -> $20-40K retainer path. Stephen building personal Claw before making internal case. Architecture: stacked planes (Lilly Stack, Controlled Gateway, Agent Runtime)."
+}

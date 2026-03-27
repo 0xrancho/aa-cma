@@ -1,0 +1,35 @@
+{
+  "object_type": "contact",
+  "slug": "zach-smulder",
+  "display_name": "Zach Smulder",
+  "airtable_id": "PENDING",
+  "account_slug": null,
+  "email": "zsmulder@gmail.com",
+  "tier": 2,
+  "crm_stage": "Awareness",
+  "status": "active",
+  "last_contact": "2026-03-04",
+  "last_contact_channel": "email",
+  "load_on_inbound": true,
+  "files_to_load": [
+    "/workspace/project/contacts/zach-smulder/enrich/enrich-contact.json"
+  ],
+  "linked_opportunities": [],
+  "open_threads": [],
+  "deliverables": [
+    {"type": "show-and-tell", "url": "https://show-and-tell-zach.netlify.app", "deployed": "2026-03-04"}
+  ],
+  "notes": "Show and Tell demo contact.",
+  "managed_conversation": {
+    "group_folder": "show-and-tell-zach",
+    "group_path": "/workspace/project/groups/show-and-tell-zach/",
+    "runtime_files": [
+      "/workspace/project/groups/show-and-tell-zach/elicitation_checklist.json",
+      "/workspace/project/groups/show-and-tell-zach/CLAUDE.md"
+    ],
+    "special_instructions": "Show and Tell interview. Warm, friendly, slightly conspiratorial.",
+    "conversation_state": "elicitation_in_progress",
+    "last_thomas_message": null,
+    "last_contact_message": null
+  }
+}

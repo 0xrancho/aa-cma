@@ -1,0 +1,37 @@
+{
+  "object_type": "contact",
+  "slug": "roger-austin",
+  "display_name": "Roger Austin",
+  "airtable_id": "local-only",
+  "account_slug": "cmt",
+  "email": "raustin@cmtengr.com",
+  "tier": 2,
+  "crm_stage": "Personal",
+  "status": "active",
+  "last_contact": null,
+  "last_contact_channel": null,
+  "load_on_inbound": true,
+  "files_to_load": [
+    "/workspace/project/contacts/roger-austin/enrich/enrich-contact.json"
+  ],
+  "linked_opportunities": [
+    "cmt-proposal-automation"
+  ],
+  "open_threads": [
+    "CMT/Konner thread \u2014 waiting on Ali's direction"
+  ],
+  "notes": "Joel's father. Former SVP Marketing CMT. Personal relationship. Autonomous replies authorized. Authorized tester for cmt-artifact-gen skill alongside Konner Dudley \u2014 will send fictional payloads by email to request branded CMT BD documents.",
+  "managed_conversation": {
+    "group_folder": "roger-austin",
+    "group_path": "/workspace/project/groups/roger-austin/",
+    "runtime_files": [
+      "/workspace/project/groups/roger-austin/CLAUDE.md",
+      "/workspace/project/groups/roger-austin/conversation_log.md"
+    ],
+    "special_instructions": "Joel's father. Warm, personal tone. Autonomous replies authorized. When Roger requests a CMT document, run cmt-artifact-gen skill at /workspace/project/container/skills/cmt-artifact-gen/ \u2014 parse his email for doc type + payload, generate using templates, deploy to aa-cmt-bd.netlify.app, reply with URL, notify Joel via Telegram.",
+    "conversation_state": "opening",
+    "last_thomas_message": null,
+    "last_contact_message": null,
+    "inbox": "thomas@arthurarchie.com"
+  }
+}

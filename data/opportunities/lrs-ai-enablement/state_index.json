@@ -1,0 +1,21 @@
+{
+  "object_type": "opportunity",
+  "slug": "lrs-ai-enablement",
+  "display_name": "LRS — AI Enablement",
+  "airtable_id": "receIH3ZpMe5sThvy",
+  "account_slug": "lrs",
+  "contact_slugs": ["shawn-snyder"],
+  "crm_stage": "Presales",
+  "tier": 2,
+  "status": "active",
+  "last_activity": "2026-02-28",
+  "load_on_inbound": true,
+  "files_to_load": [],
+  "linked_engagements": [],
+  "open_threads": [
+    "Joel to probe Josh Brandt about AI initiatives",
+    "Assess fit for AI Enablement engagement"
+  ],
+  "deliverables": [],
+  "notes": "Saturday-call urgency signal. LRS has zero public AI narrative despite being large IT services firm."
+}

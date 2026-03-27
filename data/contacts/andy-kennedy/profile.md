@@ -1,0 +1,34 @@
+# Andy Kennedy
+
+*Principal — Strategic Communications & Storytelling*
+*Ceremony*
+
+**Airtable Contact ID:** recDhbx4I5DQCaEVI
+**Tier:** 2 — Active channel partner
+**Relationship to Joel:** Referral source / potential rev-share or resell partner
+
+---
+
+## Role
+
+Andy runs special ops communication and storytelling work for organizations that need buy-in across complex hierarchies. His primary client in this context: Scott Caltabiano at Lilly GFD.
+
+Andy + Scott built *PortOps* — a shared knowledge database for GFD coordination. Ceremony operates as a centralized strategic support layer for GFD leadership, sitting outside the general contractor structure and outside traditional corporate communications.
+
+---
+
+## Relationship to Opportunity
+
+Andy is the gateway to Scott. He has:
+- Deep problem space knowledge (built PortOps, understands the data gaps)
+- Existing trust with Scott
+- Context on Scott's purchase authority at both Ceremony-resell and Lilly-direct levels
+- Ability to facilitate and advise on a direct A&A/Scott engagement (rev share)
+
+---
+
+## Next Actions
+
+- [ ] Andy validation of problem space (is this the right framing?)
+- [ ] Andy intel on Scott purchase authority (Ceremony-resell scope/timeline, Lilly direct scope/timeline)
+- [ ] Andy to facilitate intro to Scott once problem space confirmed

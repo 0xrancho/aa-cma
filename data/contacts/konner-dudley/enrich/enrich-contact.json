@@ -1,0 +1,36 @@
+{
+  "enriched_at": "2026-03-12",
+  "enriched_by": "thomas",
+  "sources": ["email-thread", "linkedin-inferred"],
+  "professional": {
+    "title": "Pursuits Group Manager",
+    "company": "Crawford, Murphy & Tilly (CMT)",
+    "company_website": "cmtengr.com",
+    "phone": "217.572.1093",
+    "email": "kdudley@cmtengr.com",
+    "department": "Pursuits / Business Development",
+    "seniority": "Senior Director of Pursuits (per Joel's message)"
+  },
+  "relationship": {
+    "how_met": "Discovery meeting Feb 17, 2026 — AI Meeting, coffee downtown",
+    "intro_channel": "joel@commitimpact.com",
+    "warmth": "warm",
+    "champion": true,
+    "gatekeeper": "Ali (director) — needs her approval before proceeding"
+  },
+  "personality_and_style": {
+    "communication_style": "Professional, thoughtful, slightly overwhelmed by scope but genuinely intrigued",
+    "ai_literacy": "Moderate-high. Follows industry news (Hard Fork podcast), uses Copilot, has enterprise agents in use",
+    "key_quote": "You are the first person to create a clear roadmap for how we could be applying these tools at a higher level. Every other convo was focused on singular tasks and small solutions.",
+    "pain_themes": [
+      "Proposal development bottleneck",
+      "Fragmented AI tools — no coherent strategy",
+      "Governance concerns around where AI agents live in the enterprise stack"
+    ]
+  },
+  "interests_and_hooks": {
+    "primary": "Proposal automation — pulling together context, history, strategy fluidly",
+    "secondary": "Enterprise AI governance and agent architecture",
+    "credibility_signals": ["CMT IT team is AI-optimistic", "Multiple agents already built internally"]
+  }
+}

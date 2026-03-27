@@ -1,0 +1,22 @@
+{
+  "object_type": "contact",
+  "slug": "matt-wallace",
+  "display_name": "Matt Wallace",
+  "airtable_id": "PENDING",
+  "account_slug": "onow-ascent",
+  "email": "matt@onow.com",
+  "tier": 2,
+  "crm_stage": "Presales",
+  "status": "active",
+  "last_contact": "2026-02-27",
+  "last_contact_channel": "in-person",
+  "load_on_inbound": true,
+  "files_to_load": [
+    "/workspace/project/contacts/matt-wallace/enrich/enrich-contact.json"
+  ],
+  "linked_opportunities": ["onow-agentic-forms", "onow-pm-agent"],
+  "open_threads": [
+    "Scoping meeting next week"
+  ],
+  "notes": "Founder/CEO ONOW ASCENT. 2025 Praxis Indy Fellow, 2x Forbes. Said 'Let's do it.' on 2/27/2026."
+}

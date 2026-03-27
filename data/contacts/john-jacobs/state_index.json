@@ -1,0 +1,30 @@
+{
+  "object_type": "contact",
+  "slug": "john-jacobs",
+  "display_name": "Jon Jacobson",
+  "airtable_id": "rec8TZl9Nj25oBwwP",
+  "account_slug": "cmt",
+  "email": null,
+  "title": "IT Manager, Associate",
+  "tier": 2,
+  "crm_stage": "Awareness",
+  "status": "active",
+  "last_contact": null,
+  "last_contact_channel": null,
+  "load_on_inbound": false,
+  "files_to_load": [],
+  "linked_opportunities": ["cmt-proposal-automation"],
+  "open_threads": [],
+  "deliverables": [],
+  "notes": "IT Manager, Associate at CMT. Oversees data analysts team. Trusted universally by CMT leadership — carries significant informal authority. Real decision influencer alongside Kevin Miller for any enterprise technology engagement. Verified: Jon Jacobson (not John Jacobs). Title confirmed against cmtengr.com and CMT 2024 associate announcement. Not yet engaged directly.",
+  "intel": {
+    "source": "Verified via cmtengr.com and CMT 2024 associate announcement",
+    "date": "2026-03-19",
+    "key_facts": [
+      "IT Manager, Associate. Name: Jon Jacobson (not John Jacobs).",
+      "Runs the data analysts team.",
+      "Trusted universally by CMT leadership — carries significant informal authority.",
+      "Real decision influencer on any enterprise tech partnership alongside Kevin Miller."
+    ]
+  }
+}

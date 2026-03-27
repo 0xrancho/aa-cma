@@ -1,0 +1,34 @@
+{
+  "enriched_at": "2026-03-06",
+  "enriched_by": "thomas",
+  "problem_statement": "Andy's team generates standard proposals but Andy manually customizes each. 70% revenue from existing clients — re-engagement is primary use case. Partner-dependent model at founder leverage limit.",
+  "solution_fit": "strong",
+  "engagement_tracks": [
+    {
+      "name": "Agentic Service Design",
+      "description": "Encode Andy's proposal methodology so team can generate client-contextualized proposals without him"
+    },
+    {
+      "name": "Contractor Coordination",
+      "description": "Help Andy track buyer ideas (esp. Lilly contact) and make embedded contractors more proactive on pipeline execution"
+    }
+  ],
+  "pricing_estimate": {
+    "rapid_mvp": "$25K-$45K (3-4 weeks)",
+    "strategic_enablement": "$5.5K-$27.5K (1-5 weeks)"
+  },
+  "objections": [],
+  "success_signals": [
+    "Proposals go out without Andy that fully capture his methodology and the client's TRUTH",
+    "Capacity recapture: 3-12 senior hours per deal"
+  ],
+  "open_questions": [
+    "Which track to lead with?",
+    "Contractor names and Lilly contact name (get in Discovery)"
+  ],
+  "sources": [
+    {"type": "ceb", "path": "/workspace/extra/agenticforms/ceb/output/ceremony/enrichment.json"},
+    {"type": "ceb-interview", "path": "/workspace/extra/agenticforms/ceb/memory/interviews/ceremony.json"},
+    {"type": "case-study", "path": "/workspace/extra/agenticforms/case-studies/ceremony/interview.json"}
+  ]
+}

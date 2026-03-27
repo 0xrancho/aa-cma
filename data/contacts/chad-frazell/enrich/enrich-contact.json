@@ -1,0 +1,22 @@
+{
+  "enriched_at": "2026-03-06",
+  "enriched_by": "thomas",
+  "role_summary": "President & CEO, The Web Guys. Sole sales operator — does all BD, discovery, proposals, handoffs. Self-identified bottleneck.",
+  "icp_fit": "strong",
+  "pain_themes": [
+    "Sole sales bottleneck — SEO and Delivery teams have AI tools, he has nothing",
+    "Manual proposal building from discovery notes",
+    "Sales-to-dev handoff friction",
+    "Inbox overwhelm"
+  ],
+  "motivations": [
+    "Proposal agent for discovery-to-proposal automation",
+    "Sales-to-dev handoff compilation",
+    "Inbox management (triage, drafts, follow-ups)"
+  ],
+  "communication_style": "Professional, direct, values speed and clarity. No jargon. Sales-guy-friendly.",
+  "relationship_notes": "Connected through professional network. Reached out after seeing Joel's agentic work. Discovery meeting 3/4/2026, 20 minutes, super clear.",
+  "sources": [
+    {"type": "graph", "path": "/workspace/project/groups/main/memory/graph/the-web-guys.md"}
+  ]
+}

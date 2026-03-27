@@ -1,0 +1,23 @@
+{
+  "enriched_at": "2026-03-06",
+  "enriched_by": "thomas",
+  "role_summary": "Senior Director, API & GT Projects, Global Facilities Delivery at Eli Lilly. Structurally like the UN Secretary General for GFD — coordinates Portfolio Programs globally but has no governance authority. Programs share info voluntarily.",
+  "icp_fit": "strong",
+  "pain_themes": [
+    "Knowledge is async and incomplete — Programs share what they choose",
+    "No governance = poor data quality into PortOps",
+    "1-1 interviews required to elicit info (high friction)",
+    "Needs meeting notes from Town Halls, Newsletters, Steering Committee in central queryable repo",
+    "Needs to create reports, presentations, docs from that space"
+  ],
+  "motivations": [
+    "Central queryable knowledge repository",
+    "Report and presentation generation from ingested data",
+    "Future state: Unifyer (broader GFD data solution) but needs something now"
+  ],
+  "communication_style": "Not yet met directly. All intel from Andy Kennedy.",
+  "relationship_notes": "Referred by Andy Kennedy (Ceremony). Andy + Scott built PortOps. Ceremony operates as centralized strategic support layer for GFD leadership. Do not contact Scott directly until Joel confirms engagement model and Andy validates problem space.",
+  "sources": [
+    {"type": "profile", "path": "/workspace/project/contacts/scott-caltabiano/docs/2026-03-06-profile.md"}
+  ]
+}

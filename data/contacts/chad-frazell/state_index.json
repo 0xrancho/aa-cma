@@ -1,0 +1,40 @@
+{
+  "object_type": "contact",
+  "slug": "chad-frazell",
+  "display_name": "Chad Frazell",
+  "airtable_id": "recomkvuN81VAnWjh",
+  "account_slug": "the-web-guys",
+  "email": "cf@the-web-guys.com",
+  "tier": 3,
+  "crm_stage": "Proposal",
+  "status": "active",
+  "last_contact": "2026-03-04",
+  "last_contact_channel": "email",
+  "load_on_inbound": true,
+  "files_to_load": [
+    "/workspace/project/contacts/chad-frazell/enrich/enrich-contact.json",
+    "/workspace/project/accounts/the-web-guys/enrich/enrich-account.json",
+    "/workspace/project/opportunities/twg-executive-agent/enrich/enrich-opportunity.json"
+  ],
+  "linked_opportunities": [
+    "twg-executive-agent"
+  ],
+  "open_threads": [
+    "Awaiting elicitation responses",
+    "Continue elicitation (10 questions total, 3 sent)",
+    "Compile scoping summary when enough answered"
+  ],
+  "notes": "President & CEO, The Web Guys. Sole sales operator, self-identified bottleneck. Discovery meeting 2026-03-04.",
+  "managed_conversation": {
+    "group_folder": "twg-chad",
+    "group_path": "/workspace/project/groups/twg-chad/",
+    "runtime_files": [
+      "/workspace/project/groups/twg-chad/elicitation_checklist.json",
+      "/workspace/project/groups/twg-chad/CLAUDE.md"
+    ],
+    "special_instructions": "CEB elicitation for real engagement. Professional, direct, sales-guy-friendly. No jargon. Chad values speed and clarity.",
+    "conversation_state": "elicitation_in_progress",
+    "last_thomas_message": "2026-03-04: Sent 3 initial elicitation questions",
+    "last_contact_message": null
+  }
+}

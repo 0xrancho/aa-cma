@@ -1,0 +1,34 @@
+{
+  "enriched_at": "2026-03-06",
+  "enriched_by": "thomas",
+  "problem_statement": "Indy Praxis and Polk need AI enablement for community operations. CCF grant path. Two options scoped.",
+  "solution_fit": "strong",
+  "engagement_tracks": [
+    {
+      "name": "Option B: Agentic Operations Agent",
+      "description": "B1: Foundation & Data Ingestion ($4K, wks 1-3). B2: Content & Comms Engine ($5K, wks 3-6). B3: Data Management & Community Assets ($4K, wks 6-10)."
+    },
+    {
+      "name": "Option A: Community Matching Engine",
+      "description": "A1: Matching Intelligence ($8K, wks 8-12). A2: Network Enrichment & Scale ($4K, wks 12-16)."
+    }
+  ],
+  "pricing_estimate": {
+    "option_b": "$13,000",
+    "option_a": "$12,000",
+    "full": "$25,000",
+    "ongoing": "$300-$500/mo"
+  },
+  "objections": [],
+  "success_signals": [
+    "Greg chose Option B as priority",
+    "Brian Schutt confirmed agentic AI fits under 'tech enablement' CCF category"
+  ],
+  "open_questions": [
+    "CCF grant decision (expected early April 2026)",
+    "If approved: project kicks off July 2026"
+  ],
+  "sources": [
+    {"type": "graph", "path": "/workspace/project/groups/main/memory/graph/indy-praxis.md"}
+  ]
+}

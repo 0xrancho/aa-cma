@@ -1,0 +1,71 @@
+{
+  "object_type": "contact",
+  "slug": "amanda-austin",
+  "display_name": "Amanda Austin",
+  "airtable_id": "",
+  "account_slug": "",
+  "email": "drmandaaustin@gmail.com",
+  "tier": 2,
+  "crm_stage": "personal",
+  "status": "active",
+  "last_contact": "2026-03-10",
+  "last_contact_channel": "email",
+  "load_on_inbound": true,
+  "files_to_load": [
+    "/workspace/project/groups/amanda-spring-break/CLAUDE.md"
+  ],
+  "linked_opportunities": [],
+  "open_threads": [
+    "spring-break-2026"
+  ],
+  "deliverables": [
+    {
+      "type": "itinerary",
+      "description": "Spring Break 2026 itinerary + meal plan",
+      "date": "2026-03-09",
+      "status": "delivered"
+    },
+    {
+      "type": "calendar",
+      "description": "8 Google Calendar events created Mar 14-20, Amanda invited",
+      "date": "2026-03-09",
+      "status": "live"
+    }
+  ],
+  "notes": "Joel's wife. Personal context only — no business. Spring break trip to Smoky Mountains Mar 14-20, Westgate Resort booked.",
+  "managed_conversation": {
+    "group_folder": "amanda-spring-break",
+    "group_path": "/workspace/project/groups/amanda-spring-break/",
+    "runtime_files": [
+      "/workspace/project/groups/amanda-spring-break/CLAUDE.md"
+    ],
+    "special_instructions": "Personal family context only. Spring break trip planning. Handle autonomously. Report back to main via session-log.md.",
+    "conversation_state": "active",
+    "thread_id": "19cc0f0313af49c5",
+    "inbox": "thomas@arthurarchie.com",
+    "last_thomas_message": "2026-03-09",
+    "last_contact_message": "2026-03-10",
+    "history": [
+      {
+        "date": "2026-03-06",
+        "summary": "Amanda sent spring break preferences: Dollywood x2, GSMNP, stargazing, spa"
+      },
+      {
+        "date": "2026-03-08",
+        "summary": "Amanda confirmed Westgate booking, requested meal plan under $25/pp/day"
+      },
+      {
+        "date": "2026-03-09",
+        "summary": "Amanda sent kids ages (0,2,4,6,8), no dietary restrictions, arriving for dinner Mar 14"
+      },
+      {
+        "date": "2026-03-09",
+        "summary": "Thomas replied: full itinerary, meal plan, coffee shops, farmers market flag, calendar events created"
+      },
+      {
+        "date": "2026-03-10",
+        "summary": "Amanda forwarded BRHLL league newsletter and Little League newsletter — no action required"
+      }
+    ]
+  }
+}

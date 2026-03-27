@@ -1,0 +1,22 @@
+{
+  "enriched_at": "2026-03-06",
+  "enriched_by": "thomas",
+  "role_summary": "Principal — Strategic Communications & Storytelling at Ceremony. Runs special ops communication for organizations needing buy-in across complex hierarchies. Primary Lilly client contact: Scott Caltabiano at GFD.",
+  "icp_fit": "strong",
+  "pain_themes": [
+    "Partner-dependent delivery model",
+    "Manual proposal customization",
+    "Team can't generate proposals without Andy"
+  ],
+  "motivations": [
+    "Referral source / potential rev-share or resell partner",
+    "Gateway to Scott Caltabiano and Lilly opportunity",
+    "Believes AI will change white collar work"
+  ],
+  "communication_style": "Direct, collegial. Uses partnership language. Comfortable with back-and-forth.",
+  "relationship_notes": "Joel and Andy have been going back and forth for a while. Andy previously said he doesn't need sales help (framed Joel as sales ops). Andy reached out 2026-03-02: 'AI is going to change how white collar work is done.' Deep problem space knowledge — built PortOps, understands data gaps. Existing trust with Scott. Can facilitate direct A&A/Scott engagement.",
+  "sources": [
+    {"type": "graph", "path": "/workspace/project/groups/main/memory/graph/ceremony-design.md"},
+    {"type": "profile", "path": "/workspace/project/contacts/andy-kennedy/docs/2026-03-06-profile.md"}
+  ]
+}

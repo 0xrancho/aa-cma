@@ -1,0 +1,22 @@
+{
+  "enriched_at": "2026-03-06",
+  "enriched_by": "thomas",
+  "problem_statement": "Drew running Claude Code in isolation. Interested in multi-agent setup. Concern: giving Claude access to confidential email/Google data (compliance/trust barrier).",
+  "solution_fit": "moderate",
+  "engagement_tracks": [
+    {"name": "NanoClaw Demo", "description": "Show container isolation, mount controls, permission boundaries. API via console app + Google MCP as compliance-friendly angle."}
+  ],
+  "pricing_estimate": {},
+  "objections": [
+    "Drew 'doesn't trust it' — needs to see control layer"
+  ],
+  "success_signals": [],
+  "open_questions": [
+    "Drew's background and role at Alloy",
+    "High Alpha portfolio research",
+    "Alloy investment thesis"
+  ],
+  "sources": [
+    {"type": "graph", "path": "/workspace/project/groups/main/memory/graph/alloy-ventures.md"}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "enriched_at": "2026-03-06",
+  "enriched_by": "thomas",
+  "problem_statement": "PM Agent build for existing client. Scoping in progress.",
+  "solution_fit": "strong",
+  "engagement_tracks": [
+    {"name": "PM Agent", "description": "Agentic project management build"}
+  ],
+  "pricing_estimate": {},
+  "objections": [],
+  "success_signals": [],
+  "open_questions": [],
+  "sources": [
+    {"type": "ceb", "path": "/workspace/extra/agenticforms/ceb/output/retrofit-design/enrichment.json"},
+    {"type": "ceb-interview", "path": "/workspace/extra/agenticforms/ceb/memory/interviews/retrofit-design.json"}
+  ]
+}

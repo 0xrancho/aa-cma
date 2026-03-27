@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "date": "2026-03-25T21:00:06.000Z",
+    "text": "Finally, you can trust OpenClaw with real data!\n\nPlano adds a proxy layer to OpenClaw that filters every request and response before an agent can act. Connect your real inbox, calendar, and APIs without risk.\n\nGitHub: http://github.com/katanemo/plano\n\n(100% local setup below)",
+    "url": "https://x.com/_avichawla/status/2036911023706566768",
+    "enriched": {
+      "type": "tool",
+      "repo_url": "https://github.com/katanemo/plano",
+      "description": "AI-native proxy server and data plane for agentic apps. Provides orchestration, safety guardrails, observability, and smart LLM routing. Built on Envoy by core contributors.",
+      "key_features": [
+        "Low-latency orchestration between agents",
+        "Model agility with routing by name, alias or preferences",
+        "Zero-code capture of Agentic Signals™ plus OTEL traces",
+        "Moderation & Memory Hooks via Filter Chains",
+        "Built on Envoy by core contributors"
+      ],
+      "architecture": "Out-of-process dataplane that handles routing, guardrails, observability without modifying app code",
+      "relevance_to_aa": "Direct proxy layer solution for connecting real client data (inbox, calendar, APIs) to CMAs without security risk"
+    }
+  },
+  {
+    "id": 2,
+    "date": "2026-03-25T13:29:08.000Z",
+    "text": "Building agent skills from scratch is a grind.\n\nWe've been there. So we built the fix — and open-sourced all of it under MIT.\n\nPDF, Excel, PPTX, DOCX, and more. \n\nUse it, fork it, PR it.\n\nIntelligence with everyone.\n\nGithub Repo → http://github.com/MiniMax-AI/skills…\nTry online →",
+    "url": "https://x.com/MiniMaxAgent/status/2036797532890865884",
+    "enriched": {
+      "type": "toolkit",
+      "repo_url": "https://github.com/MiniMax-AI/skills",
+      "description": "Open-source agent skills collection under MIT license. Pre-built skills for document handling, frontend/fullstack dev, mobile dev, and multimedia generation via MiniMax APIs.",
+      "key_features": [
+        "PDF generation, filling, and reformatting with token-based design system",
+        "PPTX generation, editing, and reading with PptxGenJS",
+        "XLSX/Excel handling with pandas and XML templates",
+        "DOCX creation and editing using OpenXML SDK",
+        "Frontend dev with React/Next.js, Tailwind, animations",
+        "Fullstack backend with REST APIs, auth flows, databases",
+        "Mobile dev for Android (Kotlin/Compose) and iOS (UIKit/SwiftUI)",
+        "Multimedia toolkit for voice, music, video, image via MiniMax APIs"
+      ],
+      "architecture": "Collection of specialized skills that can be imported into agent frameworks",
+      "relevance_to_aa": "Ready-made professional services document handling (PDFs, presentations, spreadsheets) for client deliverables"
+    }
+  },
+  {
+    "id": 3,
+    "date": "2026-03-21T04:03:10.000Z",
+    "text": "GitHub dropped a toolkit that kills vibe coding\n\nspec-kit: describe what you want → AI writes specs → plans → builds\n\nworks with every major AI coding agent\n \nLink - https://github.com/github/spec-kit",
+    "url": "https://x.com/_vmlops/status/2035205552394182853",
+    "enriched": {
+      "type": "framework",
+      "repo_url": "https://github.com/github/spec-kit",
+      "description": "Spec-Driven Development toolkit that transforms development from vibe coding to structured specification → implementation workflow. Works with every major AI coding agent.",
+      "key_features": [
+        "Five-phase workflow: constitution → specify → plan → tasks → implement",
+        "Supports 25+ AI agents (Claude Code, Gemini CLI, GitHub Copilot, Cursor, etc.)",
+        "Extensions system for adding new capabilities (Jira integration, code review, etc.)",
+        "Presets system for customizing templates and terminology",
+        "Automated task generation from implementation plans",
+        "Cross-artifact consistency analysis",
+        "Project health diagnostics and validation"
+      ],
+      "architecture": "CLI tool that generates structured templates and commands for AI agents, with extension/preset system for customization",
+      "relevance_to_aa": "Methodology for encoding Joel's consulting approaches into structured agent workflows. Could standardize how A&A builds client CMAs."
+    }
+  },
+  {
+    "id": 4,
+    "date": "2026-03-05T01:45:38.000Z",
+    "text": "Introducing the Google Workspace CLI: https://github.com/googleworkspace/cli… - built for humans and agents.\n\nGoogle Drive, Gmail, Calendar, and every Workspace API. 40+ agent skills included.",
+    "url": "https://x.com/addyosmani/status/2029372736267805081",
+    "enriched": {
+      "type": "cli_tool",
+      "repo_url": "https://github.com/googleworkspace/cli",
+      "description": "Universal CLI for all Google Workspace APIs, dynamically built from Google Discovery Service. Includes 40+ AI agent skills and structured JSON output.",
+      "key_features": [
+        "Dynamic command surface built from Google Discovery Service",
+        "Structured JSON output for AI agent consumption",
+        "Multiple auth workflows (OAuth, service accounts, access tokens)",
+        "100+ Agent Skills (SKILL.md files) for every supported API",
+        "Helper commands for common workflows (+send, +agenda, +upload, etc.)",
+        "Auto-pagination and time-aware helpers",
+        "OpenClaw and Gemini CLI extensions included",
+        "Model Armor integration for prompt injection protection"
+      ],
+      "architecture": "Rust CLI that dynamically generates commands from Google's Discovery Service, with agent skills for integration",
+      "relevance_to_aa": "Direct integration path for CMAs to manage client Google Workspace environments. Essential for professional services firms using GSuite."
+    }
+  },
+  {
+    "id": 5,
+    "date": "2026-03-23T18:45:03.000Z",
+    "text": "Holy shit...Someone just open-sourced a Claude Code plugin that turns any codebase into an interactive knowledge graph.\n\nIts called Understand Anything / http://github.com/Lum1104/Understand-Anything…\n\nYou drop it in, run one command, and get a visual map of every file, function, class, and dependency",
+    "url": "https://x.com/ihtesham2005/status/2036152262805119120",
+    "enriched": {
+      "type": "plugin",
+      "repo_url": "https://github.com/Lum1104/Understand-Anything",
+      "description": "Claude Code plugin that analyzes codebases with multi-agent pipeline, builds knowledge graphs, and provides interactive dashboard for exploring code architecture visually.",
+      "key_features": [
+        "Multi-agent analysis pipeline (scanner, analyzer, architecture analyzer, tour builder, reviewer)",
+        "Interactive React dashboard with graph visualization",
+        "Plain-English explanations for every function and class",
+        "Architectural layer grouping (API, Service, Data, UI, Utility)",
+        "Guided tours and learning paths",
+        "Impact analysis for code changes",
+        "Cross-platform support (Claude Code, Codex, OpenClaw, Cursor, etc.)",
+        "Incremental updates for changed files only"
+      ],
+      "architecture": "TypeScript plugin with specialized AI agents, React dashboard, and tree-sitter parsing",
+      "relevance_to_aa": "Code comprehension tool for Arc when architecting client systems. Could help with legacy system analysis and modernization projects."
+    }
+  },
+  {
+    "id": 6,
+    "date": "2026-03-25T10:00:54.000Z",
+    "text": "every morning my agents go out, scan the internet for problems people are willing to pay to solve, come back, argue about which ones are worth building, vote, and ship a tool. checked today and somehow there are 45 live.",
+    "url": "https://x.com/Voxyz_ai/status/2036745128895734013",
+    "enriched": {
+      "type": "concept",
+      "description": "Autonomous agent swarm for market research and product development. Agents scan internet for problems, debate viability, vote on solutions, and autonomously ship tools.",
+      "key_features": [
+        "Automated market research and opportunity identification",
+        "Multi-agent deliberation and voting mechanisms",
+        "Autonomous tool/product development pipeline",
+        "Scaled to 45 live tools built autonomously"
+      ],
+      "relevance_to_aa": "Model for automated market intelligence. Could inform Seneca's BD pipeline by identifying emerging professional services pain points."
+    }
+  },
+  {
+    "id": 7,
+    "date": "2026-03-24T18:41:15.000Z",
+    "text": "Claude Code just introduced one of the most thoughtful agent features yet\n\nit is called auto dream\n\nit tackles a problem most people do not notice at first:\n\nas agents learn from you over time, they store preferences, corrections, and patterns\n\nthat memory becomes powerful\n\nbut",
+    "url": "https://x.com/om_patel5/status/2036513690803945625",
+    "enriched": {
+      "type": "feature",
+      "description": "Claude Code's 'auto dream' feature for managing agent memory. Agents store preferences, corrections, and patterns over time, then self-curate memory to stay effective.",
+      "key_features": [
+        "Automatic storage of user preferences and corrections",
+        "Pattern recognition in user interactions",
+        "Self-curation of memory to maintain effectiveness",
+        "Prevents memory bloat while preserving useful context"
+      ],
+      "relevance_to_aa": "Memory management for long-running client CMAs. Essential for maintaining context across extended consulting engagements."
+    }
+  },
+  {
+    "id": 8,
+    "date": "2026-03-24T21:26:26.000Z",
+    "text": "no  more  permission prompts  New in Claude Code: auto mode.\n\nInstead of approving every file write and bash command, or skipping permissions entirely, auto mode lets Claude make permission decisions on your behalf.\n\nSafeguards check each action before it runs.",
+    "url": "https://x.com/bcherny/status/2036555259997462541",
+    "enriched": {
+      "type": "feature",
+      "description": "Claude Code auto mode eliminates permission prompts by letting Claude make permission decisions autonomously, with safeguards checking each action.",
+      "key_features": [
+        "Autonomous permission decisions by Claude",
+        "Safeguards validate each action before execution",
+        "Eliminates manual approval friction",
+        "Maintains security through automated checks"
+      ],
+      "relevance_to_aa": "Reduces friction for unattended CMA operations. Important for 24/7 client service delivery without manual intervention."
+    }
+  },
+  {
+    "id": 9,
+    "date": "2026-03-24T17:22:21.000Z",
+    "text": "Introducing OpenSpace: The self-evolving engine that makes your AI agents smarter, more cost-efficient, and continuously improving.\n\n 46% fewer tokens through self-evolving skills and shared agent experiences — where every completed task makes every connected agent smarter and",
+    "url": "https://x.com/huang_chao4969/status/2036493834495074704",
+    "enriched": {
+      "type": "platform",
+      "description": "Self-evolving engine for AI agents that reduces token costs through shared learning. Agents improve from collective experiences across connected instances.",
+      "key_features": [
+        "46% token reduction through self-evolving skills",
+        "Shared agent experiences across connected instances",
+        "Continuous improvement from completed tasks",
+        "Network effects where each task improves all agents"
+      ],
+      "relevance_to_aa": "Cost optimization and continuous improvement for CMA deployments. Could significantly reduce API costs while improving service quality."
+    }
+  },
+  {
+    "id": 10,
+    "date": "2026-03-24T13:45:22.000Z",
+    "text": "SOMEONE OPEN SOURCED A SMALL MODEL TRAINED SPECIFICALLY AS A PERSONAL AGENT ROUTER\n\nDECIDES WHAT RUNS LOCAL VS CLOUD AUTOMATICALLY\nROUTES TASKS TO THE RIGHT MODEL BASED ON COMPLEXITY\n\nSMARTER AGENT ORCHESTRATION WITHOUT THE OVERHEAD",
+    "url": "https://x.com/RoundtableSpace/status/2036439229748666843",
+    "enriched": {
+      "type": "model",
+      "description": "Small model trained specifically for agent routing decisions. Automatically decides local vs cloud execution and routes tasks to appropriate models based on complexity.",
+      "key_features": [
+        "Trained specifically for personal agent routing",
+        "Automatic local vs cloud decision making",
+        "Task complexity-based model routing",
+        "Reduced orchestration overhead"
+      ],
+      "relevance_to_aa": "Cost optimization for CMA deployments. Could reduce API costs by routing simple tasks to local models while using cloud models for complex work."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "object_type": "contact",
+  "slug": "greg-enas",
+  "display_name": "Greg Enas",
+  "airtable_id": "PENDING",
+  "account_slug": "indy-praxis",
+  "email": "sanedad@gmail.com",
+  "tier": 2,
+  "crm_stage": "Proposal",
+  "status": "active",
+  "last_contact": "2026-03-05",
+  "last_contact_channel": "email",
+  "load_on_inbound": true,
+  "files_to_load": [
+    "/workspace/project/contacts/greg-enas/enrich/enrich-contact.json"
+  ],
+  "linked_opportunities": ["indy-praxis-ai-enablement"],
+  "open_threads": [
+    "CCF grant status",
+    "Indy Praxis newsletter next issue"
+  ],
+  "notes": "Polk Stables co-founder, Indy Praxis board. CCF grant collaborator. Newsletter driver.",
+  "managed_conversation": {
+    "group_folder": "greg-enas",
+    "group_path": "/workspace/project/groups/greg-enas/",
+    "runtime_files": [
+      "/workspace/project/groups/greg-enas/CLAUDE.md"
+    ],
+    "special_instructions": "Send-only from thomas@arthurarchie.com. Greg closed the intro exchange. Wait for re-engagement or Joel direction.",
+    "conversation_state": "dormant",
+    "last_thomas_message": "Re: Put in next newsletter please — proper intro",
+    "last_contact_message": "Great to meet you — conversation closer"
+  }
+}

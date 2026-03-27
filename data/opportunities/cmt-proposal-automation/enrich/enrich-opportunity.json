@@ -1,0 +1,18 @@
+{
+  "enriched_at": "2026-03-06",
+  "enriched_by": "thomas",
+  "problem_statement": "CMT Engineering — Konner Dudley had discovery meeting and received WWH doc. Thread is warm, stalled, waiting on Ali.",
+  "solution_fit": "",
+  "engagement_tracks": [],
+  "pricing_estimate": {},
+  "objections": [],
+  "success_signals": [],
+  "open_questions": [
+    "Ali's direction pending"
+  ],
+  "sources": [
+    {"type": "ceb", "path": "/workspace/extra/agenticforms/ceb/output/cmt-engineering/enrichment.json"},
+    {"type": "ceb-interview", "path": "/workspace/extra/agenticforms/ceb/memory/interviews/cmt-engineering.json"},
+    {"type": "case-study", "path": "/workspace/extra/agenticforms/case-studies/cmt-engineering/interview.json"}
+  ]
+}

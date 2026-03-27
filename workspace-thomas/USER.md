@@ -4,11 +4,18 @@
 
 Joel Austin is the founder and principal of Arthur & Archie, a growth engineering firm for professional services companies. He encodes consulting methodologies into agentic systems.
 
+Arthur & Archie is an anti-silicon startup. Not "move fast and break things." Not "raise a bunch of money and get big at all costs." A&A values deep relationships over scale, moral clarity over market positioning, and building a local, stable, profitable mid-size firm — sustained, not exited.
+
+The mission: moral preservationists, community infrastructure, illuminators of truth, accelerators of redemptive enterprise. Every strategic decision, client engagement, and outreach gets filtered through this — genuinely, not performatively.
+
 ## Background
 
 - 16 years in GTM, RevOps, and CRM across 47+ organizations globally
-- Seven generations of professional services lineage
-- Based in the US, works with global clients
+- Seven generations of professional services lineage back to William A. Austin (lent law books to Lincoln, 1828)
+- Based in south Broad Ripple, Indianapolis (1920s craftsman bungalow)
+- Father of 5 under 10, married to Amanda
+- Partners: Josh Lawman (technical), Kevin Kurchner (Codefi, strategic)
+- Bootstrapped. High touch. Long partnerships.
 
 ## Current Ventures
 
@@ -21,6 +28,7 @@ Joel Austin is the founder and principal of Arthur & Archie, a growth engineerin
 ## Agent Team
 
 - **Thomas** (you) — Chief of Staff. Telegram primary. Orchestrates, communicates, operates.
+- **Seneca** — Sales Ops & GTM. BD pipeline, CRM, artifacts, managed conversations.
 - **Aris** — Information Architect. Research, evaluation, vision. "Utility over Novelty."
 - **Arc** — Master Builder. Architecture, construction, code. "Structural Integrity."
 - **Cicero** — Demand generation (future). Newsletter + 1-1 outreach. Classical rhetoric framework.
@@ -39,6 +47,15 @@ Joel Austin is the founder and principal of Arthur & Archie, a growth engineerin
 - Clients are professional services firms (law, consulting, accounting, engineering)
 - Community is Indy Praxis (400+ entrepreneurs)
 - Technical infrastructure runs on Lenovo (dev) → Mac Minis (client deploys)
+
+## Scheduling Constraints
+
+- Joel's reliable work window: 10:00 AM - 2:00 PM ET, Mon-Fri
+- Friday mornings 7-10 AM: meetings only (Amanda covers kids solo)
+- Before 10 AM Mon-Thu: Joel is on kid duty, don't schedule meetings
+- Joel pickup days: Tue + Thu (2:15 PM hard stop)
+- Joel dinner duty: Mon + Wed + Fri (4-6 PM)
+- Full family schedule in `family-routine.md`
 
 ## Standing Orders
 

@@ -1,0 +1,28 @@
+{
+  "object_type": "opportunity",
+  "slug": "ceremony-agentic-service-design",
+  "display_name": "Ceremony — Agentic Service Design",
+  "airtable_id": "recEnZxJwHqKCG8ox",
+  "account_slug": "ceremony",
+  "contact_slugs": ["andy-kennedy"],
+  "crm_stage": "Need Analysis",
+  "tier": 3,
+  "status": "active",
+  "last_activity": "2026-03-06",
+  "load_on_inbound": true,
+  "files_to_load": [
+    "/workspace/project/opportunities/ceremony-agentic-service-design/enrich/enrich-opportunity.json",
+    "/workspace/project/accounts/ceremony/enrich/enrich-account.json"
+  ],
+  "linked_engagements": [],
+  "open_threads": [
+    "Friday Discovery meeting at Ceremony — prep brief",
+    "Get contractor names and Lilly contact name during Discovery",
+    "Determine which track to lead with (proposal encoding vs. contractor coordination)",
+    "Block calendar event once time confirmed"
+  ],
+  "deliverables": [
+    {"type": "ceb-brief", "path": "/workspace/extra/agenticforms/ceb/output/ceremony/brief-v3.html", "description": "Ceremony CEB brief"}
+  ],
+  "notes": "Two tracks: 1) Agentic Service Design (proposal methodology encoding) 2) Contractor Coordination (buyer ideas + proactive pipeline). CEB confirmed TRAPPED KNOWLEDGE constraint."
+}

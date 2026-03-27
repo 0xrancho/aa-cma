@@ -1,0 +1,40 @@
+{
+  "object_type": "opportunity",
+  "slug": "trl-managed-agency",
+  "display_name": "TRL Managed Agency",
+  "airtable_id": "recksj8YW98Me5DZj",
+  "account_slug": "the-restored-leader",
+  "status": "active",
+  "stage": "Proposal Sent",
+  "linked_contacts": ["darren-ho"],
+  "files_to_load": [],
+  "deliverables": [
+    {
+      "type": "proposal",
+      "name": "TRL Managed Agency Proposal",
+      "url": "https://aa-trl-managed-agency.netlify.app",
+      "file": null,
+      "created": "2026-03-11"
+    },
+    {
+      "type": "contract-template",
+      "name": "TRL SOW Template",
+      "url": null,
+      "file": "groups/main/output/TRL-SOW-Template.docx",
+      "created": "2026-03-11"
+    },
+    {
+      "type": "contract-template",
+      "name": "TRL MSA — Arthur & Archie",
+      "url": null,
+      "file": "groups/main/output/TRL-MSA-ArthurArchie.docx",
+      "created": "2026-03-11"
+    }
+  ],
+  "notes": "Managed agency proposal for Darren Ho / The Restored Leader. Augustine = Leadership Coaching Assistant. Joel = AI Practice Manager & Experience Coach. $11K activation + $3,500/mo Level 1. SOW and MSA templates generated, pending SignNow setup.",
+  "created": "2026-03-11",
+  "last_updated": "2026-03-12",
+  "activity_log": [
+    {"date": "2026-03-12", "note": "Proposal sent. Client moving forward."}
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "enriched_at": "2026-03-06",
+  "enriched_by": "thomas",
+  "role_summary": "Indy Praxis leader, Polk Stables co-founder. Lead ESO for CCF grant application. Primary contact for Praxis AI enablement opportunity.",
+  "icp_fit": "moderate",
+  "pain_themes": [
+    "Community operations management at scale",
+    "Newsletter and member communications",
+    "Database management and community data"
+  ],
+  "motivations": [
+    "CCF grant for community AI enablement",
+    "Agentic operations agent for Praxis"
+  ],
+  "communication_style": "",
+  "relationship_notes": "Key stakeholders also include Brian Schutt, Leslie (DB management), Doug, Don (senior sages), Darren Ho (dual role: Praxis decision maker + Restored Leader client). Greg chose Option B (Agentic Ops Agent) as priority.",
+  "sources": [
+    {"type": "graph", "path": "/workspace/project/groups/main/memory/graph/indy-praxis.md"},
+    {"type": "contacts-md", "path": "/workspace/project/groups/main/memory/contacts.md"}
+  ]
+}

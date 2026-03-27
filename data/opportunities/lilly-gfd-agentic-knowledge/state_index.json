@@ -1,0 +1,24 @@
+{
+  "object_type": "opportunity",
+  "slug": "lilly-gfd-agentic-knowledge",
+  "display_name": "Eli Lilly GFD — Agentic Knowledge System",
+  "airtable_id": "rec5EXoUxmTHjSV93",
+  "account_slug": "eli-lilly",
+  "contact_slugs": ["scott-caltabiano", "andy-kennedy"],
+  "crm_stage": "Qualification",
+  "tier": 2,
+  "status": "active",
+  "last_activity": "2026-03-06",
+  "load_on_inbound": true,
+  "files_to_load": [
+    "/workspace/project/opportunities/lilly-gfd-agentic-knowledge/enrich/enrich-opportunity.json"
+  ],
+  "linked_engagements": [],
+  "open_threads": [
+    "Andy validation of problem space",
+    "Scott purchase authority intel",
+    "Engagement model decision (Ceremony resell vs direct)"
+  ],
+  "deliverables": [],
+  "notes": "Agentic knowledge system for Scott at GFD. Ingest Teams recordings, newsletters, steering docs. Generate reports, presentations. Stretch: email interview agent for Portfolio/Program leaders."
+}

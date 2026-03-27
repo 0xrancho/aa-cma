@@ -1,0 +1,24 @@
+{
+  "enriched_at": "2026-03-06",
+  "enriched_by": "thomas",
+  "problem_statement": "Scott needs a central queryable repo of GFD knowledge: Teams meeting recordings/transcripts, newsletters, steering committee docs. Must generate reports, presentations, and docs from ingested data. Stretch: email interview agent for Portfolio/Program leaders.",
+  "solution_fit": "strong",
+  "engagement_tracks": [
+    {
+      "name": "Agentic Knowledge System",
+      "description": "Ingest -> Store -> Query -> Generate pipeline for GFD data"
+    }
+  ],
+  "pricing_estimate": {},
+  "objections": [],
+  "success_signals": [],
+  "open_questions": [
+    "Is this the correct problem space? (Andy validation)",
+    "Where does PortOps live — Ceremony servers or Lilly infrastructure?",
+    "Who manages PortOps?",
+    "Can Scott authorize creation/expansion?",
+    "Would Teams transcript collection be sufficient data foundation?",
+    "Purchase authority at Ceremony-resell vs Lilly direct?"
+  ],
+  "sources": []
+}

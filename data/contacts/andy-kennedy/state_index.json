@@ -1,0 +1,50 @@
+{
+  "object_type": "contact",
+  "slug": "andy-kennedy",
+  "display_name": "Andy Kennedy",
+  "airtable_id": "rechMnn52QHFGPZ1Z",
+  "account_slug": "ceremony",
+  "email": "andy@ceremony.design",
+  "tier": 2,
+  "crm_stage": "Presales",
+  "status": "active",
+  "last_contact": "2026-03-06",
+  "last_contact_channel": "phone",
+  "load_on_inbound": true,
+  "files_to_load": [
+    "/workspace/project/contacts/andy-kennedy/enrich/enrich-contact.json",
+    "/workspace/project/accounts/ceremony/enrich/enrich-account.json"
+  ],
+  "linked_opportunities": [
+    "ceremony-agentic-service-design",
+    "lilly-gfd-agentic-knowledge"
+  ],
+  "open_threads": [
+    "Problem space validation",
+    "Scott purchase authority intel",
+    "Engagement model TBD",
+    "Friday Discovery meeting at Ceremony"
+  ],
+  "notes": "Joel spoke with Andy 2026-03-06. Andy is primary intel source and facilitator for Lilly opportunity. Gateway to Scott Caltabiano.",
+  "managed_conversation": {
+    "group_folder": "main",
+    "group_path": "/workspace/project/groups/main/",
+    "runtime_files": [],
+    "special_instructions": "Andy is a high-value prospect. Respond warmly and substantively. Do NOT mention Stephen Feng or any confidential Lilly engagement details. Use partnership language, not vendor language. STANDING ORDER: Thomas manages this conversation autonomously.",
+    "conversation_state": "initial_outreach_sent",
+    "thread_id": "19cb9d28ad120d4e",
+    "inbox": "thomas@arthurarchie.com",
+    "elicitation_status": "pending_joel_setup",
+    "elicitation_notes": "Joel wants to be highly involved in defining the elicitation set for Andy.",
+    "last_thomas_message": "2026-03-04: Sent initial outreach \u2014 A few things before Friday",
+    "last_contact_message": null,
+    "history": [
+      {
+        "date": "2026-03-04",
+        "action": "Sent initial outreach from thomas@arthurarchie.com",
+        "subject": "A few things before Friday \u2014 from Thomas at Arthur & Archie",
+        "content_summary": "Linked discovery doc, explained VIP list, invited Andy to share context or ask questions before Friday meeting"
+      }
+    ]
+  }
+}

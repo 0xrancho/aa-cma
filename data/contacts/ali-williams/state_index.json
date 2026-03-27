@@ -1,0 +1,31 @@
+{
+  "object_type": "contact",
+  "slug": "ali-williams",
+  "display_name": "Ali Williams",
+  "airtable_id": "PENDING",
+  "account_slug": "cmt",
+  "email": "awilliams@cmtengr.com",
+  "phone": "(314) 571-9085",
+  "title": "VP & Director of Marketing & Communications",
+  "tier": 2,
+  "crm_stage": "Awareness",
+  "status": "active",
+  "last_contact": null,
+  "last_contact_channel": null,
+  "load_on_inbound": false,
+  "files_to_load": [],
+  "linked_opportunities": ["cmt-proposal-automation"],
+  "open_threads": [],
+  "deliverables": [],
+  "notes": "VP & Director of Marketing & Communications at CMT. Holds executive buying authority for marketing and BD engagements. Key gatekeeper — Konner needs her direction before proceeding. Roger Austin's former colleague in the Marketing leadership. Not yet engaged directly.",
+  "intel": {
+    "source": "Official CMT org chart (cmtengr.com)",
+    "date": "2026-03-17",
+    "key_facts": [
+      "VP & Director of Marketing & Communications.",
+      "Executive buying authority for marketing and BD engagements.",
+      "Konner Dudley is waiting on her direction before moving forward on the proposal automation engagement.",
+      "Not yet engaged directly."
+    ]
+  }
+}

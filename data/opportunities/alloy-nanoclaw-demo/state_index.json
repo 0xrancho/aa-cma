@@ -1,0 +1,30 @@
+{
+  "object_type": "opportunity",
+  "slug": "alloy-nanoclaw-demo",
+  "display_name": "Alloy Ventures — NanoClaw Demo",
+  "airtable_id": "recC7Dj91iqFOIMma",
+  "account_slug": "alloy-ventures",
+  "contact_slugs": ["drew-beecher"],
+  "crm_stage": "Qualification",
+  "tier": 2,
+  "status": "active",
+  "last_activity": "2026-03-05",
+  "load_on_inbound": true,
+  "files_to_load": [],
+  "linked_engagements": [],
+  "open_threads": [
+    "Monday March 10 meeting prep",
+    "Research High Alpha portfolio, Alloy investment thesis, Drew background",
+    "Prepare NanoClaw architecture overview for data access concerns",
+    "Demo: container isolation, mount controls, permission boundaries"
+  ],
+  "deliverables": [
+    {
+      "type": "meeting-brief",
+      "date": "2026-03-08",
+      "label": "Drew Beechler — March 10 Meeting Brief",
+      "path": "/workspace/project/groups/main/output/meeting-briefs/drew-beechler-2026-03-10.html"
+    }
+  ],
+  "notes": "Drew running Claude Code in isolation. Interested in multi-agent NanoClaw. Trust/compliance barrier. Joel: API via console app + Google MCP as compliance angle."
+}

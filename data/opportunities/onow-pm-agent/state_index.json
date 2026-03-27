@@ -1,0 +1,18 @@
+{
+  "object_type": "opportunity",
+  "slug": "onow-pm-agent",
+  "display_name": "ONOW ASCENT — PM Agent Build",
+  "airtable_id": "recvUay72Mwyekg8A",
+  "account_slug": "onow-ascent",
+  "contact_slugs": ["matt-wallace"],
+  "crm_stage": "Presales",
+  "tier": 2,
+  "status": "active",
+  "last_activity": "2026-02-27",
+  "load_on_inbound": true,
+  "files_to_load": [],
+  "linked_engagements": [],
+  "open_threads": [],
+  "deliverables": [],
+  "notes": "PM Agent build, TBD scope. Separate from Agentic Forms deal."
+}

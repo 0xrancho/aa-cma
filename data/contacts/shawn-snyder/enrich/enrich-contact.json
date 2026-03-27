@@ -1,0 +1,14 @@
+{
+  "enriched_at": "2026-03-06",
+  "enriched_by": "thomas",
+  "role_summary": "VP Business Development, LRS (Levi, Ray & Shoup). Saturday-call urgency signal. CMT scar tissue dynamic.",
+  "icp_fit": "moderate",
+  "pain_themes": [],
+  "motivations": [],
+  "communication_style": "",
+  "relationship_notes": "Joel met with LRS team 2/28/2026.",
+  "sources": [
+    {"type": "graph", "path": "/workspace/project/groups/main/memory/graph/lrs.md"},
+    {"type": "contacts-md", "path": "/workspace/project/groups/main/memory/contacts.md"}
+  ]
+}

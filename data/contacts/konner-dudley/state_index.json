@@ -1,0 +1,40 @@
+{
+  "object_type": "contact",
+  "slug": "konner-dudley",
+  "display_name": "Konner Dudley",
+  "airtable_id": "recr8j2nPH4JcUFJ1",
+  "account_slug": "cmt",
+  "email": "kdudley@cmtengr.com",
+  "phone": "217.572.1093",
+  "title": "Pursuits Group Manager, Crawford, Murphy & Tilly",
+  "tier": 2,
+  "crm_stage": "Qualification",
+  "status": "active",
+  "last_contact": "2026-03-11",
+  "last_contact_channel": "email",
+  "load_on_inbound": true,
+  "files_to_load": [
+    "/workspace/project/contacts/konner-dudley/enrich/enrich-contact.json"
+  ],
+  "linked_opportunities": ["cmt-proposal-automation"],
+  "open_threads": [
+    "Pending Ali Williams (VP & Director of Marketing & Communications) approval before proceeding. Konner is a champion."
+  ],
+  "deliverables": [],
+  "notes": "Pursuits Group Manager at CMT (Crawford, Murphy & Tilly). Warm thread from Feb 17 discovery meeting. Received WWH doc. Engaged but needs internal clearance from Ali Williams (VP & Director of Marketing & Communications) before moving. Interested in proposal automation. Joel is CCing Thomas to demonstrate capabilities. Konner can prompt Thomas directly and request branded BD documents.",
+  "managed_conversation": {
+    "group_folder": "cmt-konner",
+    "group_path": "/workspace/project/groups/cmt-konner/",
+    "runtime_files": [
+      "/workspace/project/groups/cmt-konner/CLAUDE.md",
+      "/workspace/project/groups/cmt-konner/managed_state_index.json"
+    ],
+    "special_instructions": "Konner is a BD-savvy senior at an engineering firm. He understands AI at a practical level. Thomas is being introduced as Joel's AI Chief of Staff. Can generate branded CMT documents on request. Keep tone professional but approachable. When Konner asks for a sample document, generate it using CMT brand assets and bd-enablement templates.",
+    "conversation_state": "intro_pending",
+    "thread_id": "19c6cdd8b3ae560a",
+    "inbox": "joel@commitimpact.com",
+    "last_thomas_message": null,
+    "last_contact_message": "2026-03-11",
+    "history": []
+  }
+}

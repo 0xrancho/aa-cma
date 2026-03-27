@@ -1,0 +1,17 @@
+{
+  "enriched_at": "2026-03-06",
+  "enriched_by": "thomas",
+  "problem_statement": "LRS has no public AI narrative despite being a large IT services firm with 1,100 employees. Zero AI services or thought leadership visible externally.",
+  "solution_fit": "",
+  "engagement_tracks": [],
+  "pricing_estimate": {},
+  "objections": [],
+  "success_signals": [],
+  "open_questions": [
+    "What does 'Emerging Technology' mean at LRS currently?",
+    "AI initiatives Joel needs to probe"
+  ],
+  "sources": [
+    {"type": "graph", "path": "/workspace/project/groups/main/memory/graph/lrs.md"}
+  ]
+}

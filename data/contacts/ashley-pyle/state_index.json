@@ -1,0 +1,19 @@
+{
+  "object_type": "contact",
+  "slug": "ashley-pyle",
+  "display_name": "Ashley Pyle",
+  "airtable_id": "",
+  "account_slug": "gadellnet",
+  "email": "",
+  "tier": 2,
+  "crm_stage": "Presales",
+  "status": "active",
+  "last_contact": "",
+  "last_contact_channel": "",
+  "load_on_inbound": true,
+  "files_to_load": [],
+  "linked_opportunities": ["gadellnet-ai-enablement"],
+  "open_threads": [],
+  "deliverables": [],
+  "notes": "CXO at GadellNet. Primary contact."
+}

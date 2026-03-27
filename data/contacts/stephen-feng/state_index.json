@@ -1,0 +1,41 @@
+{
+  "object_type": "contact",
+  "slug": "stephen-feng",
+  "display_name": "Stephen Feng",
+  "airtable_id": "recBrGB4aaXCEODTR",
+  "account_slug": "eli-lilly",
+  "email": "stephen.fengzh@gmail.com",
+  "tier": 3,
+  "crm_stage": "Proposal",
+  "status": "active",
+  "last_contact": "2026-03-03",
+  "last_contact_channel": "email",
+  "load_on_inbound": true,
+  "files_to_load": [
+    "/workspace/project/contacts/stephen-feng/enrich/enrich-contact.json",
+    "/workspace/project/accounts/eli-lilly/enrich/enrich-account.json",
+    "/workspace/project/opportunities/lilly-feng-personal-enablement/enrich/enrich-opportunity.json"
+  ],
+  "linked_opportunities": [
+    "lilly-feng-personal-enablement"
+  ],
+  "open_threads": [
+    "Awaiting Stephen reply to Thomas intro email (3/3/2026)",
+    "Adversarial testing results",
+    "Mock company name for environment generation",
+    "Hourly engagement proposal"
+  ],
+  "notes": "Sr. Director Global Medical Affairs, Eli Lilly. Harvard Medical School, ICF PCC. Systems thinker. Building personal Claw before making internal case.",
+  "managed_conversation": {
+    "group_folder": "eli-lilly",
+    "group_path": "/workspace/project/groups/eli-lilly/",
+    "runtime_files": [
+      "/workspace/project/groups/eli-lilly/elicitation_checklist.json",
+      "/workspace/project/groups/eli-lilly/CLAUDE.md"
+    ],
+    "special_instructions": "Personal enablement path. Load elicitation checklist on inbound. If Stephen provides mock company name, flag immediately for full environment generation.",
+    "conversation_state": "awaiting_reply",
+    "last_thomas_message": "2026-03-03: Direct intro email to stephen.fengzh@gmail.com",
+    "last_contact_message": null
+  }
+}

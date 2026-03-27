@@ -1,0 +1,31 @@
+{
+  "object_type": "contact",
+  "slug": "kevin-miller",
+  "display_name": "Kevin Miller",
+  "airtable_id": "rec3MG9MXmmhPThxQ",
+  "account_slug": "cmt",
+  "email": null,
+  "title": "Senior Vice President & Chief Operating Officer",
+  "tier": 2,
+  "crm_stage": "Awareness",
+  "status": "active",
+  "last_contact": null,
+  "last_contact_channel": null,
+  "load_on_inbound": false,
+  "files_to_load": [],
+  "linked_opportunities": ["cmt-proposal-automation"],
+  "open_threads": [],
+  "deliverables": [],
+  "notes": "Senior Vice President & Chief Operating Officer at CMT (PE, PTOE). Real decision influencer on any enterprise technology partnership. Deep technical background in traffic engineering and IT; built CMT's proprietary asset management software. Process and security focused. Supports innovation but cautious on pace. Key gatekeeper for any MS-stack or platform integration work. Board of Directors. Not yet engaged directly — supplemental intel via Roger Austin (Joel's father).",
+  "intel": {
+    "source": "Official CMT org chart (cmtengr.com/about) + supplemental intel via Roger Austin",
+    "date": "2026-03-17",
+    "key_facts": [
+      "Senior Vice President & Chief Operating Officer. PE, PTOE. Board of Directors.",
+      "Deep technical background: traffic engineering early career, then IT. Built CMT's proprietary asset management software.",
+      "Extremely process and security focused.",
+      "On board for innovation and change — deliberate on pace.",
+      "Real decision influencer alongside John Jacobs for any enterprise tech engagement."
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "object_type": "contact",
+  "slug": "benjamin-shirey",
+  "display_name": "Benjamin Shirey",
+  "airtable_id": "PENDING",
+  "account_slug": null,
+  "email": "benjamin@paperspaceship.audio",
+  "tier": 2,
+  "crm_stage": "Awareness",
+  "status": "active",
+  "last_contact": "2026-03-04",
+  "last_contact_channel": "email",
+  "load_on_inbound": true,
+  "files_to_load": [
+    "/workspace/project/contacts/benjamin-shirey/enrich/enrich-contact.json"
+  ],
+  "linked_opportunities": [],
+  "open_threads": [],
+  "deliverables": [
+    {"type": "show-and-tell", "url": "https://showandtell-ben.netlify.app", "deployed": "2026-03-04"}
+  ],
+  "notes": "Show and Tell demo contact. Paper Spaceship Audio.",
+  "managed_conversation": {
+    "group_folder": "show-and-tell-ben",
+    "group_path": "/workspace/project/groups/show-and-tell-ben/",
+    "runtime_files": [
+      "/workspace/project/groups/show-and-tell-ben/elicitation_checklist.json",
+      "/workspace/project/groups/show-and-tell-ben/CLAUDE.md",
+      "/workspace/project/groups/show-and-tell-ben/ben-shirey-operating-system.pdf"
+    ],
+    "special_instructions": "Show and Tell interview. Warm, friendly, slightly conspiratorial. Follow elicitation checklist conversationally.",
+    "conversation_state": "elicitation_in_progress",
+    "last_thomas_message": null,
+    "last_contact_message": null
+  }
+}

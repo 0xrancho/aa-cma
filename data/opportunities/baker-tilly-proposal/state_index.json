@@ -1,0 +1,18 @@
+{
+  "object_type": "opportunity",
+  "slug": "baker-tilly-proposal",
+  "display_name": "Baker Tilly — Proposal",
+  "airtable_id": "",
+  "account_slug": "baker-tilly",
+  "contact_slugs": [],
+  "crm_stage": "Presales",
+  "tier": 2,
+  "status": "active",
+  "last_activity": "",
+  "load_on_inbound": true,
+  "files_to_load": [],
+  "linked_engagements": [],
+  "open_threads": [],
+  "deliverables": [],
+  "notes": ""
+}

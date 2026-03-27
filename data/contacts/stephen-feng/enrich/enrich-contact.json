@@ -1,0 +1,23 @@
+{
+  "enriched_at": "2026-03-06",
+  "enriched_by": "thomas",
+  "role_summary": "Sr. Director, Global Medical Affairs at Eli Lilly. Recently promoted from Sr. Director HCO Strategy. ~$500K comp, manages own IT org. Harvard Medical School, industrial design background, ICF PCC certified executive coach.",
+  "icp_fit": "strong",
+  "pain_themes": [
+    "Fortune 500 pharma-grade IT lockdown (MDM, DLP, endpoint monitoring, zero-trust)",
+    "Cannot approve external MDM connection — needs higher IT authority",
+    "Needs to experience solution firsthand before championing internally"
+  ],
+  "motivations": [
+    "Leader enablement, not automation for its own sake",
+    "Systems thinker with design + coaching DNA",
+    "Wants to build personal Claw before making internal case",
+    "Moving from 'impressed observer' to 'hands-on evaluator'"
+  ],
+  "communication_style": "Thoughtful, technical, systems-oriented. Respects directness. Won't bat for a solution he hasn't experienced gains from.",
+  "relationship_notes": "Joel called Stephen 2/28, acknowledged getting ahead of himself. Stephen sees vision but needs firsthand experience. Three-part response: adversarial testing, personal Claw build, hourly engagement. NOT a stall — internal work required to become champion.",
+  "sources": [
+    {"type": "graph", "path": "/workspace/project/groups/main/memory/graph/eli-lilly.md"},
+    {"type": "contacts-md", "path": "/workspace/project/groups/main/memory/contacts.md"}
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "object_type": "contact",
+  "slug": "jeremy-portillo",
+  "display_name": "Jeremy Portillo",
+  "airtable_id": "rec9XfMNOXLSfgqm1",
+  "account_slug": "retrofit-design",
+  "email": "jeremy@retrofit.design",
+  "tier": 2,
+  "crm_stage": "Presales",
+  "status": "active",
+  "last_contact": "2026-03-03",
+  "last_contact_channel": "email",
+  "load_on_inbound": true,
+  "files_to_load": [
+    "/workspace/project/contacts/jeremy-portillo/enrich/enrich-contact.json"
+  ],
+  "linked_opportunities": [
+    "retrofit-agentic-pm"
+  ],
+  "open_threads": [
+    "PM Agent build scoping"
+  ],
+  "notes": "Active client ($3,500 + $1,000/mo). PM Agent build opportunity emerging.",
+  "managed_conversation": {
+    "group_folder": "retrofit-design",
+    "group_path": "/workspace/project/groups/retrofit-design/",
+    "runtime_files": [
+      "/workspace/project/groups/retrofit-design/elicitation_checklist.json",
+      "/workspace/project/groups/retrofit-design/CLAUDE.md"
+    ],
+    "special_instructions": "Agentic PM scope presales elicitation.",
+    "conversation_state": "elicitation_in_progress",
+    "last_thomas_message": null,
+    "last_contact_message": null
+  }
+}

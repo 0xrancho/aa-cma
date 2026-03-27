@@ -1,0 +1,35 @@
+{
+  "object_type": "contact",
+  "slug": "kevin-kirchner",
+  "display_name": "Kevin Kirchner",
+  "airtable_id": "PENDING",
+  "account_slug": null,
+  "email": "kevin@codefiworks.com",
+  "tier": 2,
+  "crm_stage": "Awareness",
+  "status": "active",
+  "last_contact": "2026-03-04",
+  "last_contact_channel": "email",
+  "load_on_inbound": true,
+  "files_to_load": [
+    "/workspace/project/contacts/kevin-kirchner/enrich/enrich-contact.json"
+  ],
+  "linked_opportunities": [],
+  "open_threads": [],
+  "deliverables": [
+    {"type": "show-and-tell", "url": "https://showandtell-kevin.netlify.app", "deployed": "2026-03-04"}
+  ],
+  "notes": "Show and Tell demo contact. Codefi (AI training nonprofit, Missouri). A&A partner candidate — third leg of stool with Joel and Josh Lawman.",
+  "managed_conversation": {
+    "group_folder": "show-and-tell-kevin",
+    "group_path": "/workspace/project/groups/show-and-tell-kevin/",
+    "runtime_files": [
+      "/workspace/project/groups/show-and-tell-kevin/elicitation_checklist.json",
+      "/workspace/project/groups/show-and-tell-kevin/CLAUDE.md"
+    ],
+    "special_instructions": "Show and Tell interview. Warm, friendly, slightly conspiratorial.",
+    "conversation_state": "elicitation_in_progress",
+    "last_thomas_message": null,
+    "last_contact_message": null
+  }
+}

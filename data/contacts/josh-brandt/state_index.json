@@ -1,0 +1,18 @@
+{
+  "object_type": "contact",
+  "slug": "josh-brandt",
+  "display_name": "Josh Brandt",
+  "airtable_id": "PENDING",
+  "account_slug": "lrs",
+  "email": null,
+  "tier": 1,
+  "crm_stage": "Presales",
+  "status": "active",
+  "last_contact": "2026-02-28",
+  "last_contact_channel": "in-person",
+  "load_on_inbound": false,
+  "files_to_load": [],
+  "linked_opportunities": ["lrs-ai-enablement"],
+  "open_threads": [],
+  "notes": "Dir. Emerging Tech, LRS. Zero public footprint. Not on LinkedIn, not on LRS website. Joel needs to probe in person."
+}

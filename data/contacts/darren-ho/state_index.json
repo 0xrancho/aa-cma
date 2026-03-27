@@ -1,0 +1,20 @@
+{
+  "object_type": "contact",
+  "slug": "darren-ho",
+  "display_name": "Darren Ho",
+  "airtable_id": "recCSzDt0Dy4ji293",
+  "account_slug": "the-restored-leader",
+  "email": "darren@therestoredleader.com",
+  "tier": 2,
+  "crm_stage": "Proposal Sent",
+  "status": "active",
+  "last_contact": "2026-03-11",
+  "last_contact_channel": "proposal",
+  "load_on_inbound": true,
+  "files_to_load": [],
+  "linked_opportunities": ["trl-managed-agency"],
+  "open_threads": [],
+  "deliverables": [],
+  "notes": "CEO and founder of The Restored Leader. Board member of Indy Praxis. Leadership coaching firm. Active managed agency proposal in progress.",
+  "managed_conversation": null
+}

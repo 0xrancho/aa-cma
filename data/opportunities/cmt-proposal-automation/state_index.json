@@ -1,0 +1,31 @@
+{
+  "object_type": "opportunity",
+  "slug": "cmt-proposal-automation",
+  "display_name": "CMT — Proposal Automation",
+  "airtable_id": "PENDING",
+  "account_slug": "cmt",
+  "contact_slugs": ["roger-austin"],
+  "crm_stage": "Qualification",
+  "tier": 2,
+  "status": "active",
+  "last_activity": "2026-03-05",
+  "load_on_inbound": true,
+  "files_to_load": [],
+  "linked_engagements": [],
+  "open_threads": [
+    "Konner Dudley thread — warm, stalled, waiting on Ali"
+  ],
+  "deliverables": [
+    {"type": "wwh", "url": "https://cmt-what-we-heard-demo.netlify.app", "description": "CMT What We Heard demo"},
+    {
+      "type": "capability-statement",
+      "url": "https://aa-cmt-bd.netlify.app/kellerton-regional/capability-statement.html",
+      "local_path": "/workspace/project/groups/a-and-a/deliverables/cmt/kellerton-regional/capability-statement.html",
+      "description": "Kellerton Regional Airport Authority — Airport Master Plan capability statement (skill test, fictional data)",
+      "generated": "2026-03-16",
+      "template_used": "capability-statement.html",
+      "quality_checklist": "PASS"
+    }
+  ],
+  "notes": "Edge case. CEB exists in agenticforms. Konner Dudley had discovery meeting + received WWH doc."
+}

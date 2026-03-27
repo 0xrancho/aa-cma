@@ -1,0 +1,23 @@
+{
+  "enriched_at": "2026-03-06",
+  "enriched_by": "thomas",
+  "problem_statement": "Matt can't sustain 1-1 investor pitches at scale while building product. 200 outbounds -> 50 qualified -> 7-8 strategic. Needs to scale investor outreach without losing personal quality.",
+  "solution_fit": "strong",
+  "engagement_tracks": [
+    {
+      "name": "Agentic Forms Landing Page",
+      "description": "Video pitch + agentic intake. Educates, qualifies, determines investor fit. Trained on Matt's deck, data, delivery, voice. Mix of deterministic and generative logic."
+    }
+  ],
+  "pricing_estimate": {
+    "build": "$7K-$15K"
+  },
+  "objections": [],
+  "success_signals": [],
+  "open_questions": [
+    "Scoping meeting requirements TBD"
+  ],
+  "sources": [
+    {"type": "graph", "path": "/workspace/project/groups/main/memory/graph/onow-ascent.md"}
+  ]
+}

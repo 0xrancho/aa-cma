@@ -1,0 +1,32 @@
+{
+  "object_type": "contact",
+  "slug": "steven-prange",
+  "display_name": "Steve Prange",
+  "airtable_id": "PENDING",
+  "account_slug": "cmt",
+  "email": null,
+  "phone": null,
+  "title": "Senior Vice President & Director of Business Development & Strategy",
+  "tier": 2,
+  "crm_stage": "Awareness",
+  "status": "active",
+  "last_contact": null,
+  "last_contact_channel": null,
+  "load_on_inbound": false,
+  "files_to_load": [],
+  "linked_opportunities": ["cmt-proposal-automation"],
+  "open_threads": [],
+  "deliverables": [],
+  "notes": "SVP & Director of Business Development & Strategy at CMT. PE credential. Member of CMT Board of Directors. Leads firm-wide strategic growth and business development. Senior stakeholder for any enterprise partnership engaging the BD or pursuits function. Not yet engaged directly.",
+  "intel": {
+    "source": "Official CMT org chart (cmtengr.com)",
+    "date": "2026-03-17",
+    "key_facts": [
+      "SVP & Director of Business Development & Strategy. PE credential.",
+      "CMT Board of Directors member.",
+      "Firm-wide BD and strategic growth leadership.",
+      "Key senior stakeholder for any engagement touching pursuits or BD function.",
+      "Not yet engaged directly."
+    ]
+  }
+}

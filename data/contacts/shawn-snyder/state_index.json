@@ -1,0 +1,22 @@
+{
+  "object_type": "contact",
+  "slug": "shawn-snyder",
+  "display_name": "Shawn Snyder",
+  "airtable_id": "PENDING",
+  "account_slug": "lrs",
+  "email": null,
+  "tier": 2,
+  "crm_stage": "Presales",
+  "status": "active",
+  "last_contact": "2026-02-28",
+  "last_contact_channel": "in-person",
+  "load_on_inbound": true,
+  "files_to_load": [
+    "/workspace/project/contacts/shawn-snyder/enrich/enrich-contact.json"
+  ],
+  "linked_opportunities": ["lrs-ai-enablement"],
+  "open_threads": [
+    "Joel to probe Josh Brandt about AI initiatives"
+  ],
+  "notes": "VP Business Development, LRS. Saturday-call urgency signal. CMT scar tissue dynamic."
+}

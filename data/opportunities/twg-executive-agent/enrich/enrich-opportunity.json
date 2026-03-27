@@ -1,0 +1,24 @@
+{
+  "enriched_at": "2026-03-06",
+  "enriched_by": "thomas",
+  "problem_statement": "Chad is the sole sales bottleneck. SEO/Delivery/Web Dev teams all have AI tools but he has nothing. Needs proposal automation, sales-to-dev handoff, and inbox management.",
+  "solution_fit": "strong",
+  "engagement_tracks": [
+    {"name": "Proposal Agent", "description": "Build proposals from discovery notes"},
+    {"name": "Sales-to-Dev Handoff", "description": "Compile specs dev team can execute against"},
+    {"name": "Inbox Management", "description": "Triage, drafts, follow-ups"}
+  ],
+  "pricing_estimate": {
+    "first_year_build": "$15K-$25K",
+    "monthly_retainer": "TBD"
+  },
+  "objections": [],
+  "success_signals": [],
+  "open_questions": [
+    "Elicitation in progress (3/10 questions sent)"
+  ],
+  "sources": [
+    {"type": "ceb", "path": "/workspace/extra/agenticforms/ceb/output/the-web-guys/enrichment.json"},
+    {"type": "case-study", "path": "/workspace/extra/agenticforms/case-studies/the-web-guys/interview.json"}
+  ]
+}

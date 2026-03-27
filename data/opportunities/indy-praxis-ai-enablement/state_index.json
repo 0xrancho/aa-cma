@@ -1,0 +1,29 @@
+{
+  "object_type": "opportunity",
+  "slug": "indy-praxis-ai-enablement",
+  "display_name": "Indy Praxis — Neighbor First AI Enablement",
+  "airtable_id": "reccrVy9RNlG5tXZL",
+  "account_slug": "indy-praxis",
+  "contact_slugs": ["greg-enas"],
+  "crm_stage": "Proposal",
+  "tier": 3,
+  "status": "active",
+  "last_activity": "2026-02-28",
+  "load_on_inbound": true,
+  "files_to_load": [
+    "/workspace/project/opportunities/indy-praxis-ai-enablement/enrich/enrich-opportunity.json"
+  ],
+  "linked_engagements": [],
+  "open_threads": [
+    "CCF Budget & Goals spreadsheet due March 26, 2026 by noon — submitted via email to CCF@iedc.in.gov",
+    "CCF decisions expected early April 2026",
+    "If approved: project kicks off July 2026"
+  ],
+  "deliverables": [
+    {"type": "proposal", "url": "https://aa-praxis-proposal.netlify.app", "password": "praxis", "description": "Praxis proposal with Options A and B"},
+    {"type": "grant-application", "url": "https://aa-ccf-application-summary.netlify.app/", "description": "CCF 2026 Application Summary — Neighbor First AI Enablement"},
+    {"type": "grant-budget-narrative", "url": "https://aa-ccf-budget-narrative.netlify.app/", "description": "CCF Budget Narrative — Arthur & Archie"},
+    {"type": "grant-budget-goals", "path": "/workspace/project/groups/praxis/grant-2026/Indy Praxis_CCF 2026 Budget_Goals.xlsx", "description": "CCF 2026 Budget & Goals spreadsheet (completed 2026-03-23, due 2026-03-26)"}
+  ],
+  "notes": "Full scope: Executive Agent Build ($13,500) + Community Matching Engine Build ($16,500) + Cloud Infrastructure ($6,600) = $36,600 CCF request. Match: Indy Praxis $4,562 + Polk Stables $4,562 = $9,122 cash (25%). Project period July 2026 - June 2027. Lead ESO: Indy Praxis (via NCF/DAF). Partner: Polk Stables. All execution by A&A (Joel). Contacts: Joel Austin (primary), Greg Enas (alternate)."
+}

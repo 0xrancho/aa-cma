@@ -1,0 +1,27 @@
+{
+  "object_type": "contact",
+  "slug": "scott-caltabiano",
+  "display_name": "Scott Caltabiano",
+  "airtable_id": "recvHABA58TZYOrcU",
+  "account_slug": "eli-lilly",
+  "email": null,
+  "tier": 2,
+  "crm_stage": "Qualification",
+  "status": "active",
+  "last_contact": "2026-03-06",
+  "last_contact_channel": "indirect (Joel spoke with Andy Kennedy)",
+  "load_on_inbound": true,
+  "files_to_load": [
+    "/workspace/project/contacts/scott-caltabiano/enrich/enrich-contact.json"
+  ],
+  "linked_opportunities": [
+    "lilly-gfd-agentic-knowledge"
+  ],
+  "open_threads": [
+    "Andy validation of problem space",
+    "Scott purchase authority intel",
+    "Engagement model decision (Ceremony resell vs direct)",
+    "Intro to Scott pending validation"
+  ],
+  "notes": "Not yet met. All intel from Andy Kennedy conversation 2026-03-06. Do not contact Scott directly until Joel confirms engagement model and Andy completes validation."
+}

@@ -1,0 +1,41 @@
+{
+  "enriched_at": "2026-03-06",
+  "enriched_by": "thomas",
+  "problem_statement": "Stephen needs to experience agentic capabilities firsthand before championing internally. Fortune 500 IT lockdown prevents easy deployment. Must prove value on personal device before corporate approval path.",
+  "solution_fit": "strong",
+  "engagement_tracks": [
+    {
+      "name": "Personal Enablement",
+      "description": "Stephen builds personal Claw with mock pharma data, tests adversarially, then makes internal case"
+    },
+    {
+      "name": "Hourly In-Person",
+      "description": "Joel helps Stephen with hands-on setup at his house"
+    }
+  ],
+  "pricing_estimate": {
+    "initial": "$5,500",
+    "retainer_path": "$20K-$40K",
+    "training_provisioning": "$20K-$40K",
+    "monthly_data": "$200-$600/mo",
+    "implementation": "$5K-$6K"
+  },
+  "objections": [
+    "Pharma-grade IT lockdown (MDM, DLP, endpoint monitoring, zero-trust)",
+    "Cannot approve external MDM connection without higher IT authority",
+    "A&A isn't an existing vendor"
+  ],
+  "success_signals": [
+    "Stephen confirms 7 capabilities (5 original + branded doc gen + BI query orchestration)",
+    "Key insight: 'one intelligence layer, not five separate tools'",
+    "Stephen sketched three-plane architecture himself"
+  ],
+  "open_questions": [
+    "Stephen's mock company name",
+    "Adversarial test results",
+    "Engagement model confirmation (hourly vs project)"
+  ],
+  "sources": [
+    {"type": "graph", "path": "/workspace/project/groups/main/memory/graph/eli-lilly.md"}
+  ]
+}
