@@ -22,6 +22,10 @@
   // Provider auth: ANTHROPIC_API_KEY from env
 
   agents: {
+    // Safety net: if any agent resolves without a model override, use Sonnet (not Opus)
+    defaults: {
+      model: "anthropic/claude-sonnet-4-6",
+    },
     list: [
       {
         id: "thomas",
@@ -78,10 +82,12 @@
         },
       },
     ],
-    bindings: [
-      { agentId: "thomas", match: { channel: "telegram" } },
-    ],
   },
+
+  // Bindings MUST be top-level (not nested under agents)
+  bindings: [
+    { agentId: "thomas", match: { channel: "telegram" } },
+  ],
 
   tools: {
     agentToAgent: {
