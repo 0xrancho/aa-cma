@@ -1,7 +1,7 @@
 {
   // ChesedClaw Gateway Config
   // AA-CMA: Thomas + Seneca + Aris + Arc
-  // Anthropic-only until Mac Minis arrive
+  // OpenAI Codex OAuth (GPT-5.4 Pro) until Mac Minis arrive
 
   gateway: {
     mode: "local",
@@ -19,20 +19,20 @@
     },
   },
 
-  // Provider auth: ANTHROPIC_API_KEY from env
-
   agents: {
-    // Safety net: if any agent resolves without a model override, use Sonnet (not Opus)
     defaults: {
-      model: "anthropic/claude-sonnet-4-6",
+      model: "openai-codex/gpt-5.4",
     },
     list: [
       {
         id: "thomas",
         default: true,
         identity: { name: "Thomas Aquinas" },
-        model: "anthropic/claude-sonnet-4-6",
+        model: "openai-codex/gpt-5.4",
         workspace: "~/aa-cma/workspace-thomas",
+        subagents: {
+          allowAgents: ["seneca", "aris", "arc"],
+        },
         tools: {
           allow: [
             "read", "write", "edit", "glob", "grep", "exec",
@@ -46,8 +46,11 @@
       {
         id: "seneca",
         identity: { name: "Seneca" },
-        model: "anthropic/claude-sonnet-4-6",
+        model: "openai-codex/gpt-5.4",
         workspace: "~/aa-cma/workspace-seneca",
+        subagents: {
+          allowAgents: ["*"],
+        },
         tools: {
           allow: [
             "read", "write", "edit", "glob", "grep", "exec",
@@ -59,8 +62,11 @@
       {
         id: "aris",
         identity: { name: "Aristotle" },
-        model: "anthropic/claude-sonnet-4-6",
+        model: "openai-codex/gpt-5.4",
         workspace: "~/aa-cma/workspace-aris",
+        subagents: {
+          allowAgents: ["*"],
+        },
         tools: {
           allow: [
             "read", "write", "glob", "grep", "exec",
@@ -72,7 +78,7 @@
       {
         id: "arc",
         identity: { name: "Archimedes" },
-        model: "anthropic/claude-sonnet-4-6",
+        model: "openai-codex/gpt-5.4",
         workspace: "~/aa-cma/workspace-arc",
         tools: {
           allow: [
