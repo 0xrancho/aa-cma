@@ -1,0 +1,15 @@
+{
+  "name": "@openclaw/delegate",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Structured task delegation with eval loops for ephemeral workers",
+  "type": "module",
+  "dependencies": {
+    "@sinclair/typebox": "0.34.48"
+  },
+  "openclaw": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}

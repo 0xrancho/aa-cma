@@ -1,6 +1,6 @@
 {
   // ChesedClaw Gateway Config
-  // AA-CMA: Thomas + Seneca + Aris + Arc
+  // AA-CMA: Thomas (Principal) + ephemeral workers via delegate()
   // OpenAI Codex OAuth (GPT-5.4 Pro) until Mac Minis arrive
 
   gateway: {
@@ -30,61 +30,14 @@
         identity: { name: "Thomas Aquinas" },
         model: "openai-codex/gpt-5.4",
         workspace: "~/aa-cma/workspace-thomas",
-        subagents: {
-          allowAgents: ["seneca", "aris", "arc"],
-        },
         tools: {
           allow: [
             "read", "write", "edit", "glob", "grep", "exec",
             "message", "cron",
             "sessions_list", "sessions_history",
             "sessions_spawn", "sessions_send", "session_status",
-            "browser",
+            "browser", "delegate",
           ],
-        },
-      },
-      {
-        id: "seneca",
-        identity: { name: "Seneca" },
-        model: "openai-codex/gpt-5.4",
-        workspace: "~/aa-cma/workspace-seneca",
-        subagents: {
-          allowAgents: ["*"],
-        },
-        tools: {
-          allow: [
-            "read", "write", "edit", "glob", "grep", "exec",
-            "browser", "sessions_spawn",
-          ],
-          deny: ["message", "cron"],
-        },
-      },
-      {
-        id: "aris",
-        identity: { name: "Aristotle" },
-        model: "openai-codex/gpt-5.4",
-        workspace: "~/aa-cma/workspace-aris",
-        subagents: {
-          allowAgents: ["*"],
-        },
-        tools: {
-          allow: [
-            "read", "write", "glob", "grep", "exec",
-            "browser", "sessions_spawn",
-          ],
-          deny: ["message", "cron", "edit"],
-        },
-      },
-      {
-        id: "arc",
-        identity: { name: "Archimedes" },
-        model: "openai-codex/gpt-5.4",
-        workspace: "~/aa-cma/workspace-arc",
-        tools: {
-          allow: [
-            "read", "write", "edit", "glob", "grep", "exec",
-          ],
-          deny: ["message", "browser", "cron", "sessions_spawn"],
         },
       },
     ],
@@ -94,11 +47,4 @@
   bindings: [
     { agentId: "thomas", match: { channel: "telegram" } },
   ],
-
-  tools: {
-    agentToAgent: {
-      enabled: true,
-      allow: ["thomas", "seneca", "aris", "arc"],
-    },
-  },
 }
